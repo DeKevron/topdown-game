@@ -1,0 +1,22 @@
+body {
+  background-color: #333;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+#gameDiv, canvas {
+  margin: 0 auto;
+}
+
+h2 {
+  margin: 10px auto;
+  text-align: center;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 20px;
+}
+
+#gameDiv {
+  position: relative;
+  display: block;
+  width: 512px;
+}
